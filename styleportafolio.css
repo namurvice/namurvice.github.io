@@ -1,0 +1,18 @@
+#cabecera{
+    background: rgb(15,11,70);
+    background: linear-gradient(126deg, rgba(15,11,70,1) 33%, rgba(79,83,177,1) 100%);
+}
+#cabecera h3{
+    color:white;
+}
+
+#small{
+    color: rgb(179, 174, 174);
+}
+
+#cabecera img{
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px rgb(26, 25, 25);
+}
