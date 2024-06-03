@@ -1,7 +1,7 @@
-# titulo del proyecto
-Mi Primer Portafolio
-## Subtitulo del proyecto
-Hice mi primer portafolio
+# Mi primer portafolio
+
+## hice mi primer portafolio en clase
+
 
 **esto va en negrita**
 Explicar de que trata la página que hicimos<br>
