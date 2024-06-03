@@ -3,7 +3,7 @@
 ## hice mi primer portafolio en clase
 
 
-**esto va en negrita**
-Explicar de que trata la página que hicimos<br>
+**En clase de pensamiento computacional y programación hicimos nuestro primer portafolio con html y la ayuda bootstrap**
+<br>
 
 Vicente Namur
