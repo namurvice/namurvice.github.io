@@ -24,4 +24,11 @@
     transform: scale(1.2);
 }
 
-
+.footer{
+    height: 150px;
+    background: rgb(15,11,70);
+    background: linear-gradient(126deg, rgba(15,11,70,1) 33%, rgba(79,83,177,1) 100%);
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+}
